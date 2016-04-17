@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9FD65E711CC1260F00E7F58D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FD65E701CC1260F00E7F58D /* main.m */; };
+		9FD65E711CC1260F00E7F58D /* Question 1.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FD65E701CC1260F00E7F58D /* Question 1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		9FD65E6D1CC1260F00E7F58D /* Code Kata 1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Code Kata 1"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9FD65E701CC1260F00E7F58D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9FD65E701CC1260F00E7F58D /* Question 1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Question 1.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		9FD65E6F1CC1260F00E7F58D /* Code Kata 1 */ = {
 			isa = PBXGroup;
 			children = (
-				9FD65E701CC1260F00E7F58D /* main.m */,
+				9FD65E701CC1260F00E7F58D /* Question 1.m */,
 			);
 			path = "Code Kata 1";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9FD65E711CC1260F00E7F58D /* main.m in Sources */,
+				9FD65E711CC1260F00E7F58D /* Question 1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +239,7 @@
 				9FD65E761CC1260F00E7F58D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
