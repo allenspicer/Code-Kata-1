@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "73104401D13A880BDDB4D13BF5F21F65AD9A6B6C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6A21A5381B87F4913C7D64D9C61954328D222889" : 0,
+    "73104401D13A880BDDB4D13BF5F21F65AD9A6B6C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F729A044-D261-4F26-9758-9E65744E38FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6A21A5381B87F4913C7D64D9C61954328D222889" : "",
+    "73104401D13A880BDDB4D13BF5F21F65AD9A6B6C" : "Code%20Kata%201\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Code Kata 2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Code Kata 2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/allenspicer\/Code-Kata.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A21A5381B87F4913C7D64D9C61954328D222889"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/allenspicer\/Code-Kata-1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73104401D13A880BDDB4D13BF5F21F65AD9A6B6C"
+    }
+  ]
+}
