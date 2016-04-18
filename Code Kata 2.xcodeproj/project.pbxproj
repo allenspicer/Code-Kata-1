@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9FABBDFA1CC55843008E4EE4 /* Palindrome.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FABBDF91CC55843008E4EE4 /* Palindrome.m */; };
 		9FD65E861CC17C9B00E7F58D /* Question 2.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FD65E851CC17C9B00E7F58D /* Question 2.m */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9FABBDF81CC55843008E4EE4 /* Palindrome.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Palindrome.h; sourceTree = "<group>"; };
+		9FABBDF91CC55843008E4EE4 /* Palindrome.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Palindrome.m; sourceTree = "<group>"; };
 		9FD65E821CC17C9B00E7F58D /* Code Kata 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Code Kata 2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FD65E851CC17C9B00E7F58D /* Question 2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Question 2.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +44,8 @@
 		9FD65E791CC17C9B00E7F58D = {
 			isa = PBXGroup;
 			children = (
+				9FABBDF81CC55843008E4EE4 /* Palindrome.h */,
+				9FABBDF91CC55843008E4EE4 /* Palindrome.m */,
 				9FD65E841CC17C9B00E7F58D /* Code Kata 2 */,
 				9FD65E831CC17C9B00E7F58D /* Products */,
 			);
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FABBDFA1CC55843008E4EE4 /* Palindrome.m in Sources */,
 				9FD65E861CC17C9B00E7F58D /* Question 2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +245,7 @@
 				9FD65E8B1CC17C9B00E7F58D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
